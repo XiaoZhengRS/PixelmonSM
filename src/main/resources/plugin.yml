@@ -1,0 +1,20 @@
+name: PixelmonSM
+version: 1.1.8
+main: com.xzkj.pixelmonsm.PixelmonSM
+depend: [PlaceholderAPI, VexView]
+softdepend: [PlayerPoints]
+authors: [XiaoZheng]
+description: 购买请加QQ1419158026
+commands:
+  PSMAU:
+    description: null
+    usage: /<command>
+  PSM:
+    description: null
+    usage: /<command>
+  PSMAD:
+    description: null
+    usage: /<command>
+  PSMHELP:
+    description: null
+    usage: /<command>

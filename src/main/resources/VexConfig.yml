@@ -1,0 +1,39 @@
+VexViewMain:
+  butt0:
+    x: 260
+    y: 330
+    w: 80
+    h: 30
+  butt1:
+    x: 350
+    y: 330
+    w: 80
+    h: 30
+  text0:
+    x: 485
+    y: 125
+    s: 2
+VexShop:
+  偏移: 60
+  x: 20
+  y: 55
+  w: 430
+  h: 450
+  f: 600
+  img:
+    x: 3
+    y: 1
+    xs: 300
+    ys: 40
+  butt:
+    x: 313
+    y: 10
+    w: 90
+    h: 40
+  text0:
+    x: 13
+    y: 15
+  text1:
+    x: 18
+    y: 40
+
